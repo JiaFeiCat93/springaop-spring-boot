@@ -1,0 +1,6 @@
+com\qetch\springaop\SpringAOPApplication.class
+com\qetch\springaop\entity\User.class
+com\qetch\springaop\service\UserService.class
+com\qetch\springaop\dao\UserDao.class
+com\qetch\springaop\controller\UserController.class
+com\qetch\springaop\service\impl\UserServiceImpl.class
